@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+
+        <shape android:shape="oval">
+
+            <solid android:color="@color/button_color"
+></solid>
+
+            <stroke android:width="0dp"
+
+              ></stroke>
+        </shape>
+    </item>
+
+    <item android:drawable="?android:textIsSelectable"
+        android:color="@color/text_color"></item>
+  
+</layer-list>
