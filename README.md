@@ -22,6 +22,9 @@ A functional calculator application built for Android using Java
 
 ![](/Gif/S1.gif) 
 ![](/Gif/S2.gif)
+![](/Gif/Screenshot_20250102_001448_Calculator%20Application.jpg)
+![](/Gif/Screenshot_20250102_001448_Calculator%20Application.jpg)
+![](/Gif/Screenshot_20250102_013926_Calculator%20Application.jpg)
 
 
 
