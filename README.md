@@ -8,7 +8,7 @@ A functional calculator application built for Android using Java
 - MXParser Library: Mathematical expressions parsed using the MXParser library.
 - Theme Customization: A settings screen allowing users to change the theme.
 
-## Technology Stac
+## Technology Stack
 
 - [Java] - Core programming language for Android development.
 - [Android SDK] - Android development fundamentals, including Activities, Layouts, and Intents.
@@ -17,20 +17,18 @@ A functional calculator application built for Android using Java
 - [MXParser] - Mathematical expression parsing.
 
 ## Installation
-1. Clone or download the repository.
-2. Open the project in Android Studio.
-3. Build and run the project.
-4. 
+- [Download ⬇️] 
 ## Screenshots
 
-
-
+[](https://github.com/provikash/androidCalculator/blob/main/Gif/VID-20250102-WA0004.mp4)
+[](https://github.com/provikash/androidCalculator/blob/main/Gif/VID-20250102-WA0005.mp4)
 
 
 
  
    [java]: <https://www.java.com/en/>
    [Android SDK]: <https://developer.android.com/>
+   [Download ⬇️]: <>
   
    [XML]: <https://developer.android.com/reference/android/util/Xml>
    [ViewBinding]: <https://developer.android.com/topic/libraries/view-binding>
