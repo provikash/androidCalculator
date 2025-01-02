@@ -20,8 +20,8 @@ A functional calculator application built for Android using Java
 - [Download ⬇️] 
 ## Screenshots
 
-![](Gif/S1.gif) 
-![](Gif/S2.gif)
+![](/Gif/S1.gif) 
+![](/Gif/S2.gif)
 
 
 
