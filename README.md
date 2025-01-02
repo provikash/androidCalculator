@@ -20,17 +20,18 @@ A functional calculator application built for Android using Java
 1. Clone or download the repository.
 2. Open the project in Android Studio.
 3. Build and run the project.
-## Development
+4. 
+## Screenshots
 
 
 
 
 
-#### Building for source
+
  
-   [java]: <https://github.com/joemccann/dillinger.git>
-   [Android SDK]: <http://daringfirebatp://daringfireball.net/projects/markdown/>
+   [java]: <https://www.java.com/en/>
+   [Android SDK]: <https://developer.android.com/>
   
-   [XML]: <http://ace.ajax.org>
-   [ViewBinding]: <http://nodejs.org>
-   [MXParser]: <http://twitter.github.com/bootstrap/>
+   [XML]: <https://developer.android.com/reference/android/util/Xml>
+   [ViewBinding]: <https://developer.android.com/topic/libraries/view-binding>
+   [MXParser]: <https://mathparser.org/>
