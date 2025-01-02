@@ -20,15 +20,15 @@ A functional calculator application built for Android using Java
 - [Download ⬇️] 
 ## Screenshots
 
-[](https://github.com/provikash/androidCalculator/blob/main/Gif/VID-20250102-WA0004.mp4)
-[](https://github.com/provikash/androidCalculator/blob/main/Gif/VID-20250102-WA0005.mp4)
+![](Gif/S1.gif) 
+![](Gif/S2.gif)
 
 
 
  
    [java]: <https://www.java.com/en/>
    [Android SDK]: <https://developer.android.com/>
-   [Download ⬇️]: <>
+   [Download ⬇️]: <https>
   
    [XML]: <https://developer.android.com/reference/android/util/Xml>
    [ViewBinding]: <https://developer.android.com/topic/libraries/view-binding>
